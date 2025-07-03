@@ -1,0 +1,84 @@
+\documentclass[11pt, oneside]{article}
+\usepackage[margin=0.5in]{geometry}
+\geometry{letterpaper}           
+\usepackage[parfill]{parskip}    
+\usepackage{graphicx}				
+\usepackage{amssymb}
+\usepackage{xcolor}
+\pagecolor{white}
+\usepackage[colorlinks = true, linkcolor = blue, urlcolor  = blue]{hyperref}
+\pagestyle{empty}
+
+\title{Samantha Butler}
+\author{Samantha Butler}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE Samantha Butler} \\[0.5em]
+    Software Developer \\[0.5em]
+    \href{mailto:butlersj1993@gmail.com}{butlersj1993@gmail.com} \quad | \quad
+    \href{https://github.com/Samantha-Butler}{GitHub} \quad | \quad
+    \href{https://www.linkedin.com/in/samantha-jane-butler/}{LinkedIn} \\[0.5em]
+\end{center}
+
+\subsection*{Profile}
+
+I’m a versatile full-stack developer with a strong foundation in both frontend and backend technologies, following a successful transition from a 7-year career as a teacher. I have 1.5 years of software development experience in the asset management sector, where I built and maintained web applications using C\#\, .NET, Angular, TypeScript, and Playwright. I've also developed solid experience working with SQL databases and deploying cloud services on Microsoft Azure. I bring strong communication, problem-solving, and collaborative skills, and I’m passionate about delivering clean, well-tested, and scalable solutions across the full development stack.
+
+I passed my apprenticeship in March 2025, and took a short, planned career break to welcome and care for my new child. I am now fully available to re-enter the workforce and commit to my next role.
+
+\medskip
+\subsection*{Experience}
+
+\textbf{Janus Henderson Investors}
+\hfill
+\textit{September 2023 – March 2025}
+
+\textbf{Software Developer Apprentice}
+
+\begin{itemize}
+  \item Introduced frontend automation testing using Playwright, integrated with CI/CD pipelines through YAML scripting to streamline QA processes  
+  \item Maintained 95\%+ test coverage in all applications through rigorous continuous testing practices
+  \item Developed efficient SQL queries and stored procedures to support robust reporting services and data access layers used by traders and other stakeholders
+  \item Implemented and maintained scalable web services using Azure cloud technologies, ensuring reliable deployment and performance
+  \item Wrote clean, maintainable code aligned with SOLID principles and Clean architecture, improving the long-term maintainability of internal applications used by our traders
+  \item Modernized our frontend applications by upgrading to Angular 19, enhancing performance and user experience
+  \item Collaborated in Agile development environments, using Atlassian tools (Jira, Confluence) to manage sprints, user stories, and code reviews
+\end{itemize}
+
+\medskip
+
+\textbf{Lansdowne Primary Academy}
+\hfill
+\textit{Jan 2016 – April 2023}
+
+\textbf{Class Teacher}
+
+\begin{itemize} 
+  \item Led English reading strategy for KS1 (2018–2020) and phonics (2021), coordinating curriculum planning and supporting colleagues in delivering effective literacy education
+  \item Planned, delivered, and assessed cross-curricular lessons aligned with the UK National Curriculum, with a focus on measurable learning outcomes and differentiated levels of learning
+  \item Designed and implemented remote learning solutions during COVID-19 lockdowns, using digital tools to engage students, maintain accountability, and meet learning objectives
+  \item Collaborated closely with parents, carers, SEN specialists, and external professionals, to foster inclusive environments and align support strategies for children with special educational needs
+  \item Supported school leadership in executing their whole-school improvement initiatives such as after-school learning provisions
+
+\end{itemize}
+
+\medskip
+
+\subsection*{Education}
+\textbf{QA Ltd}
+\hfill
+\textit{Software Developer Bootcamp – Level 4 -  2023}
+
+Completed an intensive three-month software development bootcamp with QA, gaining hands-on experience in Python, SQL, and cloud services. Developed foundational skills in backend programming, working with relational databases, and completing the AZ-900 in cloud services. The program also included collaborative coding projects, version control using Git, and exposure to Agile methodologies.
+
+\medskip
+
+\textbf{University of Canterbury, New Zealand}
+\hfill
+\textit{BTchLn - Bachelor in Teaching and Learning – 2015}
+
+Developed strong communication, organization, and problem solving skills through lesson planning, student assessment, and classroom management. Gained experience adapting to diverse learning needs that directly support Agile teamwork, user-focused development, and clear documentation. My teaching background also strengthened my ability to break down complex concepts, think iteratively, and maintain resilience in fast-paced environments, all essential in modern software development.
+
+\end{document}  
