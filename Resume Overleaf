@@ -8,6 +8,7 @@
 \pagecolor{white}
 \usepackage[colorlinks = true, linkcolor = blue, urlcolor  = blue]{hyperref}
 \pagestyle{empty}
+\usepackage[utf8]{inputenc}
 
 \title{Samantha Butler}
 \author{Samantha Butler}
